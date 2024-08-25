@@ -1,0 +1,1 @@
+enum Loans { HOME,EDUCATION,BUSSINESS};
